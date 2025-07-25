@@ -25,3 +25,8 @@ student = {
 access = student.get("name") ,student.get("favt_food")[0]
 
 print(access)
+
+
+
+
+print ("My love is Ritu and she is my best Bou ")
